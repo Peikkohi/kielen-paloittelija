@@ -1,2 +1,2 @@
-# kielen-paloittelija
+# Kielen pilkkoja
 Kielestä kielirakenteen muodostava kirjasto
