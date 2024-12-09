@@ -1,4 +1,4 @@
-# Kielen pilkkoja
+# Kielenpilkkoja
 Kielestä kielirakenteen muodostava kirjasto
 
 # Ohjelman käynnistys
